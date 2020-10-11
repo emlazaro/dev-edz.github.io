@@ -1,24 +1,9 @@
 # dev-edz
 
-## Project setup
+## Requirements to run this locally:
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+1.) Install VSCode IDE
+2.) Install Node.js
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
