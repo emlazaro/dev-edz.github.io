@@ -1,5 +1,7 @@
 # Dev Edz - Personal Portfolio Website
 
+A modern personal portfolio website showcasing projects, skills, and professional experience. Built with modern web technologies for optimal performance and user experience.
+
 ## Requirements to run this locally:
 ```
 1.) Install VSCode IDE
