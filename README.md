@@ -7,7 +7,7 @@ A modern personal portfolio website showcasing projects, skills, and professiona
 1.) Install VSCode IDE
 2.) Install Node.js
 ```
-## How to run the simulation:
+## How to run the development server:
 
 1. Download all files from this repository.
 2. Extract the downloaded zip file.
