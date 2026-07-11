@@ -1,4 +1,4 @@
-# PSPH - Electrolysis Web Application
+# Dev Edz - Personal Portfolio Website
 
 ## Requirements to run this locally:
 ```
